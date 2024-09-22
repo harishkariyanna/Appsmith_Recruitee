@@ -1,0 +1,47 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignWidget": "LEFT",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 42,
+  "defaultCheckedState": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "up2rdghwtw",
+  "label": "LabelI agree to the Terms of Service and Privacy Policy. I agree to receive the default email notifications, which I can unsubscribe from at any time.",
+  "labelPosition": "Right",
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 47,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 12,
+  "mobileTopRow": 43,
+  "needsErrorInfo": false,
+  "originalBottomRow": 42,
+  "originalTopRow": 37,
+  "parentColumnSpace": 8.701416015625,
+  "parentId": "7lk9ajkcst",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 61,
+  "topRow": 37,
+  "type": "CHECKBOX_WIDGET",
+  "version": 1,
+  "widgetId": "5b27r2qfkx",
+  "widgetName": "terms_and_cond"
+}

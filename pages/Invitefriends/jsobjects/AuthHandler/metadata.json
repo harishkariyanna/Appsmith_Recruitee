@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "66eb019495156206437cd87f_392b5d24-43d0-42a8-8c05-3169e0e109de",
+  "id": "Invitefriends_AuthHandler",
+  "unpublishedCollection": {
+    "name": "AuthHandler",
+    "pageId": "Invitefriends",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

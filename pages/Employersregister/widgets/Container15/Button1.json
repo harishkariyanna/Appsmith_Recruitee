@@ -1,0 +1,60 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 49,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "isDisabled"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "isDisabled"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": "{{!terms_and_cond.isChecked}}",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "phdkgg7121",
+  "leftColumn": 20,
+  "minWidth": 120,
+  "mobileBottomRow": 52,
+  "mobileLeftColumn": 21,
+  "mobileRightColumn": 37,
+  "mobileTopRow": 48,
+  "needsErrorInfo": false,
+  "onClick": "{{employer_detail_store.run().then(() => {\n  navigateTo('Loginpage', {}, 'SAME_WINDOW');\n  resetWidget(\"company_name\", true);\n  resetWidget(\"employer_role\", true);\n  resetWidget(\"employer_phone\", true);\n  resetWidget(\"employer_email\", true);\n  resetWidget(\"employer_password\", true);\n});}}",
+  "originalBottomRow": 49,
+  "originalTopRow": 44,
+  "parentColumnSpace": 8.701416015625,
+  "parentId": "7lk9ajkcst",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 42,
+  "text": "Sign in with LinkedIn",
+  "topRow": 44,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "fnvb0yx2kk",
+  "widgetName": "Button1"
+}

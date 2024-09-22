@@ -1,0 +1,61 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 57,
+  "boxShadow": "none",
+  "defaultOptionValue": "ALL",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "yytvdrzig8",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Company Size",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 57,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 20,
+  "mobileTopRow": 50,
+  "needsErrorInfo": false,
+  "optionLabel": "name",
+  "optionValue": "code",
+  "originalBottomRow": 57,
+  "originalTopRow": 50,
+  "parentColumnSpace": 6.1884765625,
+  "parentId": "rxtkbwf31u",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 62,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"name\": \"All\",\n    \"code\": \"ALL\"\n  },\n  {\n    \"name\": \"Small\",\n    \"code\": \"SMALL\"\n  },\n\t{\n    \"name\": \"Large\",\n    \"code\": \"LARGE\"\n  },\n  {\n    \"name\": \"Medium\",\n    \"code\": \"MEDIUM\"\n  }\n]",
+  "topRow": 50,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "8mt02hgs4w",
+  "widgetName": "Select2"
+}

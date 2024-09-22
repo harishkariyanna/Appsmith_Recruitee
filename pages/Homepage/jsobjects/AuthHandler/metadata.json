@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "66eb019495156206437cd87f_e984d5a1-94ac-4bad-b732-060aa68965d2",
+  "id": "Homepage_AuthHandler",
+  "unpublishedCollection": {
+    "name": "AuthHandler",
+    "pageId": "Homepage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

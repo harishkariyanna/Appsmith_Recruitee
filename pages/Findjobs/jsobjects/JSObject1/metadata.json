@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66eb019495156206437cd87f_fc8ede0e-80df-41d6-83f1-9741c4ea5ae9",
+  "id": "Findjobs_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Findjobs",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
