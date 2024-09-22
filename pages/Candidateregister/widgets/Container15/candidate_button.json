@@ -36,7 +36,7 @@
   "mobileRightColumn": 36,
   "mobileTopRow": 48,
   "needsErrorInfo": false,
-  "onClick": "{{candidate_details_add.run().then(() => {\n  navigateTo('Loginpage', {}, 'SAME_WINDOW');\n});}}",
+  "onClick": "{{candidate_details_add.run().then(() => {\n  navigateTo('Homepage', {}, 'SAME_WINDOW');\n});}}",
   "originalBottomRow": 52,
   "originalTopRow": 48,
   "parentColumnSpace": 9.2841796875,
